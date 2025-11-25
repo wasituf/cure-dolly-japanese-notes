@@ -21,27 +21,25 @@
   )
 
 - I-stem (*い* row): attach helpers → ます (verb)・たい (adjective)・そう, and
-  form nouns
+  form nouns.
+  - Nouns can be formed by adding nouns to the い-stem -> 買い物 (shopping),
+    話し方 (way of speaking), 飲み物 (a drink), 食べ物 (food).
   #table(
-    columns: (auto, auto, auto, auto, 1fr),
+    columns: (auto, auto, auto, 1fr),
     inset: (x: 1.2em, y: 0.75em),
     align: horizon,
     table.header(
-      [*Base (う)*],
-      [*え-stem*],
-      [*ます (polite)*],
-      [*たい (negative)*],
-      [*Noun*],
+      [*Base (う)*], [*え-stem*], [*ます (polite)*], [*たい (negative)*]
     ),
-    [買う], [買い], [買います], [買いたい], [買い物 (shopping)],
-    [聞く], [聞い], [聞きます], [ききたい], [],
-    [話す], [話し], [話します], [話したい], [話し方 (way of speaking)],
-    [持つ], [持ち], [持ちます], [持ちたい], [],
-    [死ぬ], [死に], [死にます], [死にたい], [],
-    [飛ぶ], [飛び], [飛びます], [飛びたい], [],
-    [飲む], [飲い], [飲みます], [飲みたい], [飲み物 (a drink)],
-    [取る], [取り], [取ります], [取りたい], [],
-    [食べる], [], [食べます], [食べたい], [食べ物 (food)],
+    [買う], [買い], [買います], [買いたい],
+    [聞く], [聞い], [聞きます], [ききたい],
+    [話す], [話し], [話します], [話したい],
+    [持つ], [持ち], [持ちます], [持ちたい],
+    [死ぬ], [死に], [死にます], [死にたい],
+    [飛ぶ], [飛び], [飛びます], [飛びたい],
+    [飲む], [飲い], [飲みます], [飲みたい],
+    [取る], [取り], [取ります], [取りたい],
+    [食べる], [], [食べます], [食べたい],
   )
 
 #pagebreak(weak: true)

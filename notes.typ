@@ -5,7 +5,7 @@
       "LINE Seed Sans",
       "LINE Seed JP_TTF",
     ),
-    size: 11pt,
+    size: 12pt,
     fill: rgb("#222222"),
   )
   set par(
